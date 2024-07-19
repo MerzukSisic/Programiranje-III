@@ -74,6 +74,7 @@ namespace FIT.WinForms.Ispit
                 dgvPretraga.DataSource = null;
                 cmbGrad.SelectedIndex = -1;
             }
+            //harun meryzuk
             else
             {
                 var tabela = new DataTable();
